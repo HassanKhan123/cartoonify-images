@@ -18,3 +18,9 @@
   background-repeat: no-repeat;
   background-position: center;
 }
+
+.image {
+  background-color: black;
+  opacity: 0.08;
+  filter: alpha(opacity = 8) !important;
+}
